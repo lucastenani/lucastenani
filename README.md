@@ -15,9 +15,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&labelColor=0D1117)
 
 ### Currently studying:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&labelColor=000000)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&labelColor=000000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&labelColor=000000)
+![Node.js](https://img.shields.io/badge/Node.js-6DB33F?style=for-the-badge&logo=node.js&labelColor=000000)
+
 
 
 
