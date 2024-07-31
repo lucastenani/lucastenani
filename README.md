@@ -27,7 +27,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&v
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&labelColor=0D1117)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=CSS3&labelColor=0D1117)
 ### Currently studying:
-![Node.js](https://img.shields.io/badge/Node.js-6DB33F?style=for-the-badge&logo=node.js&labelColor=000000)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
 
 <a href="#">
   <img
