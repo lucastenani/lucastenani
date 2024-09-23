@@ -30,28 +30,19 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&v
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&labelColor=0D1117)
 ![Node.js](https://img.shields.io/badge/Node.js-6DB33F?style=for-the-badge&logo=node.js&labelColor=000000)
 
+
 <a href="#">
   <img
     height="200"
-    align="center"
-    src="https://my-stats-43gk.vercel.app/api?username=lucastenani&show_icons=true&theme=nightowl&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150"
-  />
-</a>
-<a href="#">
-  <img
-    height="200"
-    align="center"
+    align="left"
     src="https://my-stats-43gk.vercel.app/api/top-langs/?username=lucastenani&hide=html,scss,css&langs_count=8&layout=compact&theme=nightowl&card_width=150"
   />
-</a>
-
-<img
-  align="left"
+  <img
+  align="rigth"
   height="202"
   src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=lucastenani&theme=nightowl"
 />
-<img
-  align="left"
-  height="97"
-  src="https://github-profile-trophy.vercel.app/?username=lucastenani&theme=nightowl&no-frame=true&title=Stars,Followers,Commits&column=-1"
-/>
+</a>
+
+
+
