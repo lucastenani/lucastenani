@@ -9,7 +9,7 @@
 
 ## 👋 About me
 
-I'm Lucas Tenani, a passionate Frontend and Backend developer focusing on building scalable web applications using React, Next.js, Node.js, and NestJS. I love working with modern JavaScript and TypeScript technologies, delivering clean and maintainable code.
+Senior Software Engineer with 6+ years of experience, specializing in frontend development (React, Next.js, TypeScript, Tailwind, styled-components, Sass) and expanding expertise into full stack solutions with NestJS and MongoDB;
 
 ---
 
