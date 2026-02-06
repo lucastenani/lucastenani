@@ -9,7 +9,7 @@
 
 ## 👋 About me
 
-Senior Software Engineer with 6+ years of experience, specializing in frontend development (React, Next.js, TypeScript, Tailwind, styled-components, Sass) and expanding expertise into full stack solutions with NestJS and MongoDB;
+Senior Software Engineer with 7 years of experience, specializing in frontend development (React, Next.js, TypeScript, Tailwind, styled-components, Sass) and expanding expertise into full stack solutions with NestJS and MongoDB;
 
 ---
 
