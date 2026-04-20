@@ -9,7 +9,7 @@
 
 ## 👋 About me
 
-Full Stack Engineer with 7+ years of experience building scalable web applications from frontend to backend. Proficient in **React**, **Next.js**, **TypeScript**, **NestJS**, **Node.js** and **PostgreSQL**. Currently expanding into **Web3**, **crypto bots** and **Python/FastAPI** — always chasing the next frontier of software engineering.
+Full Stack Engineer with 7+ years of experience building scalable web applications from frontend to backend. Proficient in **React**, **Next.js**, **TypeScript**, **NestJS**, **Node.js** and **PostgreSQL**. Currently expanding into **Web3** and **crypto bots**  always chasing the next frontier of software engineering.
 
 ---
 
@@ -52,14 +52,10 @@ Full Stack Engineer with 7+ years of experience building scalable web applicatio
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000)
 
 
----
 
-## 📚 Currently Studying
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117)
 
-> Building REST APIs and exploring async patterns with Python & FastAPI — bridging the gap between backend engineering and data-driven applications.
+
 
 ---
 
