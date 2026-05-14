@@ -9,7 +9,11 @@
 
 ## 👋 About me
 
-Full Stack Engineer with 7+ years of experience building scalable web applications from frontend to backend. Proficient in **React**, **Next.js**, **TypeScript**, **NestJS**, **Node.js** and **PostgreSQL**. Currently expanding into **Web3** and **crypto bots**  always chasing the next frontier of software engineering.
+Full Stack Engineer with 7+ years of experience building scalable web applications from frontend to backend. Proficient in React, Next.js, TypeScript, NestJS, Node.js, and PostgreSQL.
+
+Currently specializing in Applied AI Engineering, with focus on LLMs, RAG architectures, autonomous AI agents, prompt engineering, and AI-driven system design. Experienced in integrating AI models into real-world applications to build scalable and impactful software solutions.
+
+Always exploring the next frontier of software engineering, AI, automation, and emerging technologies.
 
 ---
 
