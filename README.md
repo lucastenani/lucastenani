@@ -7,11 +7,11 @@
 
 ## 👋 About me
 
-Senior software engineer with 7+ years of experience, with deep specialization in frontend architecture at scale using React, Next.js, and TypeScript. Now working across the full stack and focused on **applied AI engineering**.
+Full Stack Engineer with 7+ years of experience building scalable web applications from frontend to backend. Proficient in React, Next.js, TypeScript, NestJS, Node.js, and PostgreSQL.
 
-I work as a direct contractor with US-based companies, and I'm currently in a postgraduate program in Applied AI Engineering.
+Currently specializing in Applied AI Engineering, with focus on LLMs, RAG architectures, autonomous AI agents, prompt engineering, and AI-driven system design. Experienced in integrating AI models into real-world applications to build scalable and impactful software solutions.
 
-
+Always exploring the next frontier of software engineering, AI, automation, and emerging technologies.
 
 
 ## 🛠 Stack
